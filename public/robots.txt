@@ -15,4 +15,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://royal777.app/sitemap.xml
+Sitemap: https://www.mahadev777.online/sitemap.xml
