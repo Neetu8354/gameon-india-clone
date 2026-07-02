@@ -28,12 +28,12 @@ const HeroSection = () => {
             transition={{ duration: 0.7 }}
           >
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-heading font-bold leading-tight mb-6">
-              Royal777 – India's Most Trusted{" "}
+              mahadev777 – India's Most Trusted{" "}
               <span className="text-gold-gradient">Online Gaming Platform</span>
             </h1>
 
             <p className="text-foreground/80 text-sm md:text-base mb-4">
-              Welcome to <strong className="text-foreground">Royal777</strong>, the online gaming game-changer of all time. Gaming isn't just about chance; it's about timing, strategy, and choosing the right platform.
+              Welcome to <strong className="text-foreground">mahadev777</strong>, the online gaming game-changer of all time. Gaming isn't just about chance; it's about timing, strategy, and choosing the right platform.
             </p>
 
             <p className="text-foreground/70 text-sm md:text-base mb-4">
@@ -42,7 +42,7 @@ const HeroSection = () => {
 
             <p className="text-foreground/70 text-sm md:text-base mb-6">
               Ready to start playing and winning big? Create your account in just a few minutes and begin your journey toward successful online gaming.{" "}
-              <strong className="text-foreground">Unlimited wins with one secure ID – only on Royal777!</strong>
+              <strong className="text-foreground">Unlimited wins with one secure ID – only on mahadev777!</strong>
             </p>
 
             <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer">
@@ -70,7 +70,7 @@ const HeroSection = () => {
             <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer">
               <img
                 src={heroBannerSide}
-                alt="Royal777 official gaming platform banner"
+                alt="mahadev777 official gaming platform banner"
                 className="w-full max-w-md rounded-xl shadow-gold-lg hover:scale-105 transition-transform duration-500"
               />
             </a>

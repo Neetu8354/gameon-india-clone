@@ -5,13 +5,13 @@ const testimonials = [
   {
     name: "Rahul K.",
     city: "Mumbai",
-    text: "Royal777 pe cricket gaming ka experience bahut accha hai! Match insights accurate hain aur easy to follow hain. Best platform!",
+    text: "mahadev777 pe cricket gaming ka experience bahut accha hai! Match insights accurate hain aur easy to follow hain. Best platform!",
     rating: 5,
   },
   {
     name: "Priya S.",
     city: "Delhi",
-    text: "Teen Patti aur Andar Bahar ka maza Royal777 pe alag hi hai. Withdrawals fast hain aur games bahut smooth chalte hain.",
+    text: "Teen Patti aur Andar Bahar ka maza mahadev777 pe alag hi hai. Withdrawals fast hain aur games bahut smooth chalte hain.",
     rating: 5,
   },
   {

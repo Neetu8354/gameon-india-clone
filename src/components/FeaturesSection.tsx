@@ -45,10 +45,10 @@ const FeaturesSection = () => {
           className="text-center mb-12"
         >
           <h2 className="text-3xl md:text-4xl font-heading font-bold mb-3">
-            Why Choose <span className="text-gold-gradient">Royal777?</span>
+            Why Choose <span className="text-gold-gradient">mahadev777?</span>
           </h2>
           <p className="text-muted-foreground max-w-xl mx-auto">
-            Picking the right gaming platform matters. Royal777 is built to give you a safe, simple, and rewarding experience.
+            Picking the right gaming platform matters. mahadev777 is built to give you a safe, simple, and rewarding experience.
           </p>
         </motion.div>
 

@@ -20,15 +20,15 @@ const AboutSection = () => {
             viewport={{ once: true }}
           >
             <h2 className="text-3xl md:text-4xl font-heading font-bold mb-4">
-              About <span className="text-gold-gradient">Royal777</span>
+              About <span className="text-gold-gradient">mahadev777</span>
             </h2>
             <p className="text-muted-foreground mb-4">
-              Royal777 India ka premier online gaming platform hai. Yahan aap cricket fantasy,
+              mahadev777 India ka premier online gaming platform hai. Yahan aap cricket fantasy,
               casino-style card games, aur bahut kuch khel sakte hain — secure aur trusted environment mein.
             </p>
             <p className="text-muted-foreground mb-6">
               Hamara mission hai best gaming experience dena — fast payouts, encrypted transactions,
-              aur 24/7 support ke saath. Royal777 pe gaming ka maza hi kuch aur hai!
+              aur 24/7 support ke saath. mahadev777 pe gaming ka maza hi kuch aur hai!
             </p>
 
             <div className="grid grid-cols-2 gap-4 mb-6">

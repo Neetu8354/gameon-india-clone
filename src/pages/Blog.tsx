@@ -19,11 +19,11 @@ const Blog = () => {
   return (
     <>
       <Helmet>
-        <title>Royal777 Blog – Cricket, Casino Tips & Gaming Guides India</title>
-        <meta name="description" content="Read expert gaming guides, cricket fantasy tips, casino strategies, and online gaming insights on the Royal777 blog. Updated daily with SEO-rich articles." />
+        <title>mahadev777 Blog – Cricket, Casino Tips & Gaming Guides India</title>
+        <meta name="description" content="Read expert gaming guides, cricket fantasy tips, casino strategies, and online gaming insights on the mahadev777 blog. Updated daily with SEO-rich articles." />
         <meta name="keywords" content="royal777 blog, cricket tips, casino strategy, teen patti guide, fantasy cricket, online gaming india" />
         <link rel="canonical" href="https://royal777.app/blog" />
-        <meta property="og:title" content="Royal777 Blog – Cricket, Casino Tips & Gaming Guides" />
+        <meta property="og:title" content="mahadev777 Blog – Cricket, Casino Tips & Gaming Guides" />
         <meta property="og:description" content="Expert gaming guides, cricket fantasy tips, and casino strategies. Updated daily." />
         <meta property="og:type" content="blog" />
         <meta property="og:url" content="https://royal777.app/blog" />
@@ -31,12 +31,12 @@ const Blog = () => {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Blog",
-            "name": "Royal777 Blog",
+            "name": "mahadev777 Blog",
             "description": "Expert gaming guides, cricket tips, and casino strategies for Indian players.",
             "url": "https://royal777.app/blog",
             "publisher": {
               "@type": "Organization",
-              "name": "Royal777",
+              "name": "mahadev777",
               "url": "https://royal777.app"
             },
             "blogPost": blogPosts.map(post => ({
@@ -45,7 +45,7 @@ const Blog = () => {
               "description": post.excerpt,
               "datePublished": post.date,
               "url": `https://royal777.app/blog/${post.slug}`,
-              "author": { "@type": "Organization", "name": "Royal777" }
+              "author": { "@type": "Organization", "name": "mahadev777" }
             }))
           })}
         </script>
@@ -62,7 +62,7 @@ const Blog = () => {
               className="text-center mb-12"
             >
               <h1 className="text-3xl md:text-5xl font-heading font-bold mb-4">
-                Royal777 <span className="text-gold-gradient">Blog</span>
+                mahadev777 <span className="text-gold-gradient">Blog</span>
               </h1>
               <p className="text-muted-foreground max-w-2xl mx-auto">
                 Expert guides, winning strategies, and the latest insights in online gaming, cricket fantasy, and casino entertainment.

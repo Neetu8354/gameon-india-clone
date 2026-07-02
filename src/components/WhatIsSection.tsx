@@ -14,10 +14,10 @@ const WhatIsSection = () => {
             viewport={{ once: true }}
           >
             <h2 className="text-3xl md:text-4xl font-heading font-bold mb-6">
-              What is <span className="text-gold-gradient">Royal777?</span>
+              What is <span className="text-gold-gradient">mahadev777?</span>
             </h2>
             <p className="text-foreground/80 mb-4">
-              <strong className="text-foreground">Royal777</strong> is India's most popular and trusted online gaming platform. It is known for its secure system, smooth user experience, and wide variety of games.
+              <strong className="text-foreground">mahadev777</strong> is India's most popular and trusted online gaming platform. It is known for its secure system, smooth user experience, and wide variety of games.
             </p>
             <ul className="space-y-3 text-sm text-foreground/70">
               <li>
@@ -40,7 +40,7 @@ const WhatIsSection = () => {
               </li>
             </ul>
             <p className="text-foreground/70 text-sm mt-4">
-              In short, <strong className="text-foreground">Royal777</strong> is a complete gaming platform — combining entertainment, security, and convenience for both casual players and professionals.
+              In short, <strong className="text-foreground">mahadev777</strong> is a complete gaming platform — combining entertainment, security, and convenience for both casual players and professionals.
             </p>
           </motion.div>
 
@@ -52,7 +52,7 @@ const WhatIsSection = () => {
             <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer">
               <img
                 src={casinoImg}
-                alt="Royal777 casino games"
+                alt="mahadev777 casino games"
                 loading="lazy"
                 className="rounded-xl shadow-gold-lg w-full hover:scale-105 transition-transform duration-500"
               />

@@ -28,10 +28,10 @@ const BlogPost = () => {
     "description": post.metaDescription,
     "datePublished": post.date,
     "dateModified": post.date,
-    "author": { "@type": "Organization", "name": "Royal777" },
+    "author": { "@type": "Organization", "name": "mahadev777" },
     "publisher": {
       "@type": "Organization",
-      "name": "Royal777",
+      "name": "mahadev777",
       "url": "https://royal777.app"
     },
     "mainEntityOfPage": {
@@ -140,7 +140,7 @@ const BlogPost = () => {
               <div className="mt-12 p-6 bg-card border border-primary/30 rounded-lg text-center">
                 <h3 className="font-heading font-bold text-xl mb-2">Ready to Start Playing?</h3>
                 <p className="text-muted-foreground text-sm mb-4">
-                  Join Royal777 today and get your verified gaming ID in minutes.
+                  Join mahadev777 today and get your verified gaming ID in minutes.
                 </p>
                 <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer">
                   <Button className="bg-gold-gradient text-primary-foreground font-bold hover:opacity-90">

@@ -15,8 +15,8 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "ipl-fantasy-cricket-tips-strategies-2025",
     title: "IPL Fantasy Cricket Tips & Strategies for 2025 Season",
-    metaTitle: "IPL Fantasy Cricket Tips 2025 | Winning Strategies | Royal777",
-    metaDescription: "Master IPL Fantasy Cricket with expert tips, player selection strategies, and captain picks for the 2025 season. Learn how to build winning teams on Royal777.",
+    metaTitle: "IPL Fantasy Cricket Tips 2025 | Winning Strategies | mahadev777",
+    metaDescription: "Master IPL Fantasy Cricket with expert tips, player selection strategies, and captain picks for the 2025 season. Learn how to build winning teams on mahadev777.",
     category: "Cricket",
     date: "April 5, 2025",
     readTime: "8 min read",
@@ -69,14 +69,14 @@ Your captain earns 2x points, making this the most crucial decision. Consider:
 
 ## Conclusion
 
-Fantasy cricket is a skill-based game that rewards research and strategy. Use these tips on Royal777 to build better teams and enjoy the IPL 2025 season to its fullest.
+Fantasy cricket is a skill-based game that rewards research and strategy. Use these tips on mahadev777 to build better teams and enjoy the IPL 2025 season to its fullest.
     `,
   },
   {
     slug: "teen-patti-strategies-beginners-guide",
     title: "Teen Patti Strategies: Complete Beginner's Guide to Winning",
-    metaTitle: "Teen Patti Strategy Guide 2025 | Tips for Beginners | Royal777",
-    metaDescription: "Learn Teen Patti strategies, hand rankings, and winning tips. Complete beginner's guide to mastering India's favorite card game on Royal777.",
+    metaTitle: "Teen Patti Strategy Guide 2025 | Tips for Beginners | mahadev777",
+    metaDescription: "Learn Teen Patti strategies, hand rankings, and winning tips. Complete beginner's guide to mastering India's favorite card game on mahadev777.",
     category: "Casino",
     date: "April 2, 2025",
     readTime: "7 min read",
@@ -132,14 +132,14 @@ Your position at the table matters. Later positions give you more information ab
 
 ## Conclusion
 
-Teen Patti is a game that rewards patience and strategy. Practice these techniques on Royal777 to improve your gameplay and enjoy the experience responsibly.
+Teen Patti is a game that rewards patience and strategy. Practice these techniques on mahadev777 to improve your gameplay and enjoy the experience responsibly.
     `,
   },
   {
     slug: "online-gaming-safety-tips-india",
     title: "How to Stay Safe While Gaming Online in India: Complete Guide",
-    metaTitle: "Online Gaming Safety Tips India 2025 | Secure Gaming | Royal777",
-    metaDescription: "Essential safety tips for online gaming in India. Learn about secure platforms, data protection, responsible gaming, and avoiding scams. Stay safe with Royal777.",
+    metaTitle: "Online Gaming Safety Tips India 2025 | Secure Gaming | mahadev777",
+    metaDescription: "Essential safety tips for online gaming in India. Learn about secure platforms, data protection, responsible gaming, and avoiding scams. Stay safe with mahadev777.",
     category: "Security",
     date: "March 28, 2025",
     readTime: "6 min read",
@@ -198,14 +198,14 @@ Online gaming in India operates under various state regulations. Understanding t
 
 ## Conclusion
 
-Safe gaming is smart gaming. Choose trusted platforms like Royal777 that prioritize user security, and always practice responsible gaming habits.
+Safe gaming is smart gaming. Choose trusted platforms like mahadev777 that prioritize user security, and always practice responsible gaming habits.
     `,
   },
   {
     slug: "andar-bahar-winning-tips-tricks",
     title: "Andar Bahar: Winning Tips, Tricks & Strategy Guide",
-    metaTitle: "Andar Bahar Tips & Tricks 2025 | Winning Strategy | Royal777",
-    metaDescription: "Learn Andar Bahar winning tips, betting strategies, and expert tricks. Master India's classic card game with our comprehensive guide on Royal777.",
+    metaTitle: "Andar Bahar Tips & Tricks 2025 | Winning Strategy | mahadev777",
+    metaDescription: "Learn Andar Bahar winning tips, betting strategies, and expert tricks. Master India's classic card game with our comprehensive guide on mahadev777.",
     category: "Casino",
     date: "March 25, 2025",
     readTime: "6 min read",
@@ -242,7 +242,7 @@ Many platforms offer side bets on the number of cards dealt before a match is fo
 1. Start with small bets to understand the game flow
 2. Learn the odds — Andar has approximately 51.5% probability
 3. Don't chase losses; stick to your predetermined budget
-4. Take advantage of bonuses on Royal777
+4. Take advantage of bonuses on mahadev777
 
 ## Advanced Techniques
 
@@ -254,14 +254,14 @@ Some players prefer to bet after seeing a few cards dealt, adjusting their predi
 
 ## Conclusion
 
-Andar Bahar combines simplicity with excitement, making it perfect for both beginners and experienced players. Play on Royal777 for the best Andar Bahar experience with fast dealing and secure gameplay.
+Andar Bahar combines simplicity with excitement, making it perfect for both beginners and experienced players. Play on mahadev777 for the best Andar Bahar experience with fast dealing and secure gameplay.
     `,
   },
   {
     slug: "best-roulette-strategies-indian-players",
     title: "Best Roulette Strategies for Indian Players in 2025",
-    metaTitle: "Roulette Strategy Guide 2025 | Tips for Indian Players | Royal777",
-    metaDescription: "Discover the best roulette strategies for Indian players. Learn betting systems, odds, and expert tips to improve your roulette gameplay on Royal777.",
+    metaTitle: "Roulette Strategy Guide 2025 | Tips for Indian Players | mahadev777",
+    metaDescription: "Discover the best roulette strategies for Indian players. Learn betting systems, odds, and expert tips to improve your roulette gameplay on mahadev777.",
     category: "Casino",
     date: "March 20, 2025",
     readTime: "7 min read",
@@ -324,14 +324,14 @@ Effective bankroll management is crucial in roulette. Divide your total budget i
 
 ## Conclusion
 
-Roulette is a game of chance that becomes more enjoyable with the right knowledge and strategy. Experience premium roulette gameplay on Royal777 with live dealers and real-time action.
+Roulette is a game of chance that becomes more enjoyable with the right knowledge and strategy. Experience premium roulette gameplay on mahadev777 with live dealers and real-time action.
     `,
   },
   {
     slug: "cricket-betting-odds-explained",
     title: "Cricket Betting Odds Explained: Understanding Formats & Value",
-    metaTitle: "Cricket Betting Odds Explained 2025 | Guide for Beginners | Royal777",
-    metaDescription: "Understand cricket betting odds formats, how to read odds, and find value bets. Complete guide for Indian cricket fans on Royal777.",
+    metaTitle: "Cricket Betting Odds Explained 2025 | Guide for Beginners | mahadev777",
+    metaDescription: "Understand cricket betting odds formats, how to read odds, and find value bets. Complete guide for Indian cricket fans on mahadev777.",
     category: "Cricket",
     date: "March 15, 2025",
     readTime: "9 min read",
@@ -410,14 +410,14 @@ Track all your bets, results, and reasoning. This data helps improve your decisi
 
 ## Conclusion
 
-Understanding odds is the foundation of smart gaming. Use this knowledge on Royal777 to make more informed decisions and enjoy cricket gaming responsibly.
+Understanding odds is the foundation of smart gaming. Use this knowledge on mahadev777 to make more informed decisions and enjoy cricket gaming responsibly.
     `,
   },
   {
     slug: "online-slots-guide-jackpot-tips",
     title: "Online Slots Guide: How to Play & Maximize Your Jackpot Chances",
-    metaTitle: "Online Slots Guide 2025 | Jackpot Tips & Strategies | Royal777",
-    metaDescription: "Complete guide to online slots — learn slot mechanics, RTP, volatility, and tips to maximize your jackpot chances on Royal777.",
+    metaTitle: "Online Slots Guide 2025 | Jackpot Tips & Strategies | mahadev777",
+    metaDescription: "Complete guide to online slots — learn slot mechanics, RTP, volatility, and tips to maximize your jackpot chances on mahadev777.",
     category: "Casino",
     date: "March 10, 2025",
     readTime: "6 min read",
@@ -482,14 +482,14 @@ Set a win target. If you hit it, consider stopping or setting aside a portion of
 
 ## Conclusion
 
-Online slots combine entertainment with winning potential. Play slots on Royal777 for a premium experience with high-RTP games and exciting jackpot opportunities.
+Online slots combine entertainment with winning potential. Play slots on mahadev777 for a premium experience with high-RTP games and exciting jackpot opportunities.
     `,
   },
   {
     slug: "upi-payments-online-gaming-guide",
     title: "UPI Payments for Online Gaming: Fast, Secure & Instant Deposits",
-    metaTitle: "UPI Payments for Gaming 2025 | Instant Deposits | Royal777",
-    metaDescription: "Learn how to use UPI payments for online gaming. Instant deposits, secure withdrawals via Google Pay, PhonePe, Paytm on Royal777. Complete guide.",
+    metaTitle: "UPI Payments for Gaming 2025 | Instant Deposits | mahadev777",
+    metaDescription: "Learn how to use UPI payments for online gaming. Instant deposits, secure withdrawals via Google Pay, PhonePe, Paytm on mahadev777. Complete guide.",
     category: "Payments",
     date: "March 5, 2025",
     readTime: "5 min read",
@@ -514,7 +514,7 @@ UPI uses multiple layers of authentication including device binding, UPI PIN, an
 ### Wide Compatibility
 Works with virtually all Indian bank accounts through apps like Google Pay, PhonePe, and Paytm.
 
-## Supported UPI Apps on Royal777
+## Supported UPI Apps on mahadev777
 
 ### Google Pay (GPay)
 India's most popular UPI app with seamless integration and instant transfers.
@@ -530,7 +530,7 @@ Government-backed UPI app with straightforward functionality.
 
 ## How to Deposit Using UPI
 
-1. **Log into your Royal777 account**
+1. **Log into your mahadev777 account**
 2. **Navigate to the deposit section**
 3. **Select UPI as your payment method**
 4. **Enter the amount** you want to deposit
@@ -560,14 +560,14 @@ Most UPI apps support transactions up to ₹1,00,000 per day. Check with your ba
 
 ## Conclusion
 
-UPI makes online gaming payments fast, secure, and hassle-free. Royal777 supports all major UPI apps for seamless deposits and withdrawals.
+UPI makes online gaming payments fast, secure, and hassle-free. mahadev777 supports all major UPI apps for seamless deposits and withdrawals.
     `,
   },
   {
     slug: "live-casino-games-india-guide",
     title: "Live Casino Games in India: Complete Guide to Real Dealer Gaming",
-    metaTitle: "Live Casino Games India 2025 | Real Dealers | Royal777",
-    metaDescription: "Experience live casino games in India with real dealers. Guide to Live Teen Patti, Roulette, Blackjack, Baccarat on Royal777. HD streaming, real-time play.",
+    metaTitle: "Live Casino Games India 2025 | Real Dealers | mahadev777",
+    metaDescription: "Experience live casino games in India with real dealers. Guide to Live Teen Patti, Roulette, Blackjack, Baccarat on mahadev777. HD streaming, real-time play.",
     category: "Casino",
     date: "February 28, 2025",
     readTime: "7 min read",
@@ -626,7 +626,7 @@ A small device attached to each table encodes the video and assists the dealer i
 2. **Start with games you know** before trying new ones
 3. **Use the chat feature** to ask dealers questions
 4. **Set time limits** for your sessions
-5. **Take advantage of welcome offers** on Royal777
+5. **Take advantage of welcome offers** on mahadev777
 
 ## Best Practices
 
@@ -637,14 +637,14 @@ A small device attached to each table encodes the video and assists the dealer i
 
 ## Conclusion
 
-Live casino gaming on Royal777 delivers the ultimate casino experience to your fingertips. With professional dealers, HD streaming, and a wide selection of games, it's the closest thing to being in a real casino.
+Live casino gaming on mahadev777 delivers the ultimate casino experience to your fingertips. With professional dealers, HD streaming, and a wide selection of games, it's the closest thing to being in a real casino.
     `,
   },
   {
     slug: "mobile-gaming-apps-india-trends-2025",
     title: "Mobile Gaming Apps in India: Top Trends & Predictions for 2025",
-    metaTitle: "Mobile Gaming Trends India 2025 | Top Apps & Predictions | Royal777",
-    metaDescription: "Explore mobile gaming trends in India for 2025. Learn about top gaming apps, industry growth, user preferences, and future predictions. Royal777 insights.",
+    metaTitle: "Mobile Gaming Trends India 2025 | Top Apps & Predictions | mahadev777",
+    metaDescription: "Explore mobile gaming trends in India for 2025. Learn about top gaming apps, industry growth, user preferences, and future predictions. mahadev777 insights.",
     category: "Industry",
     date: "February 20, 2025",
     readTime: "8 min read",
@@ -671,7 +671,7 @@ India has emerged as one of the world's largest mobile gaming markets. With over
 ## Top Gaming Categories in India
 
 ### Fantasy Sports
-Fantasy cricket leads the charge, especially during IPL season. Platforms like Royal777 enable users to create fantasy teams and compete based on real match performances.
+Fantasy cricket leads the charge, especially during IPL season. Platforms like mahadev777 enable users to create fantasy teams and compete based on real match performances.
 
 ### Card Games
 Teen Patti and Rummy remain perennial favorites, with millions of daily active users across platforms.
@@ -733,7 +733,7 @@ Competitive gaming tournaments with significant prize pools are attracting mains
 
 ## Conclusion
 
-India's mobile gaming industry is at an inflection point. Platforms like Royal777 are at the forefront, offering premium gaming experiences with Indian-first features like UPI payments, Hindi support, and cricket-centric gaming options.
+India's mobile gaming industry is at an inflection point. Platforms like mahadev777 are at the forefront, offering premium gaming experiences with Indian-first features like UPI payments, Hindi support, and cricket-centric gaming options.
     `,
   },
 ];

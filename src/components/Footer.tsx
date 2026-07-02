@@ -6,13 +6,13 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="md:col-span-2">
-            <div className="text-2xl font-heading font-bold text-gold-gradient mb-3">👑 Royal777</div>
+            <div className="text-2xl font-heading font-bold text-gold-gradient mb-3">👑 mahadev777</div>
             <p className="text-sm text-muted-foreground max-w-sm mb-4">
               India's most trusted online gaming platform. Cricket, Casino games aur bahut kuch —
               secure, fast, aur reliable!
             </p>
             <p className="text-xs text-muted-foreground">
-              ⚠️ Disclaimer: Royal777 is an entertainment platform. Please play responsibly.
+              ⚠️ Disclaimer: mahadev777 is an entertainment platform. Please play responsibly.
               Users must be 18+ to register.
             </p>
           </div>
@@ -49,7 +49,7 @@ const Footer = () => {
 
         <div className="border-t border-border pt-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-muted-foreground">
-            © 2025 Royal777. All rights reserved.
+            © 2025 mahadev777. All rights reserved.
           </p>
           <div className="flex gap-4 text-xs text-muted-foreground">
             <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer" className="hover:text-primary">Privacy Policy</a>

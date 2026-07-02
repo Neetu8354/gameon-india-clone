@@ -26,7 +26,7 @@ const OfficialPlatformSection = () => {
           className="text-center mb-12"
         >
           <h2 className="text-3xl md:text-4xl font-heading font-bold mb-3">
-            The Official <span className="text-gold-gradient">Royal777</span> Platform
+            The Official <span className="text-gold-gradient">mahadev777</span> Platform
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             Verified and trusted official platform. Our commitment to security, fair play, and reliability makes us India's most preferred free gaming destination.

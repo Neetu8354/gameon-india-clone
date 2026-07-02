@@ -10,6 +10,11 @@ import NotFound from "./pages/NotFound.tsx";
 
 const Blog = lazy(() => import("./pages/Blog.tsx"));
 const BlogPost = lazy(() => import("./pages/BlogPost.tsx"));
+const Games = lazy(() => import("./pages/Games.tsx"));
+const Features = lazy(() => import("./pages/Features.tsx"));
+const About = lazy(() => import("./pages/About.tsx"));
+const FAQ = lazy(() => import("./pages/FAQ.tsx"));
+const Contact = lazy(() => import("./pages/Contact.tsx"));
 
 const queryClient = new QueryClient();
 
@@ -25,6 +30,11 @@ const App = () => (
               <Route path="/" element={<Index />} />
               <Route path="/blog" element={<Blog />} />
               <Route path="/blog/:slug" element={<BlogPost />} />
+              <Route path="/games" element={<Games />} />
+              <Route path="/features" element={<Features />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/faq" element={<FAQ />} />
+              <Route path="/contact" element={<Contact />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
             </Routes>

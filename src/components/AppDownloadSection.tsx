@@ -24,10 +24,10 @@ const AppDownloadSection = () => {
             viewport={{ once: true }}
           >
             <h2 className="text-3xl md:text-4xl font-heading font-bold mb-4">
-              Download the <span className="text-gold-gradient">Royal777 App</span>
+              Download the <span className="text-gold-gradient">mahadev777 App</span>
             </h2>
             <p className="text-muted-foreground mb-6">
-              Royal777 ko apne phone pe khelein — Android aur iOS dono pe available.
+              mahadev777 ko apne phone pe khelein — Android aur iOS dono pe available.
               Fast, secure, aur feature-rich app apki fingertips pe!
             </p>
 
@@ -55,7 +55,7 @@ const AppDownloadSection = () => {
           >
             <img
               src={appMockup}
-              alt="Royal777 gaming app on mobile"
+              alt="mahadev777 gaming app on mobile"
               loading="lazy"
               className="max-w-sm w-full rounded-2xl shadow-gold-lg"
             />
