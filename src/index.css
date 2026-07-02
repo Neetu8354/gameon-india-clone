@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@layer base {
+  :root {
+    --background: 0 0% 4%;
+    --foreground: 45 10% 90%;
+
+    --card: 0 0% 8%;
+    --card-foreground: 45 10% 90%;
+
+    --popover: 0 0% 8%;
+    --popover-foreground: 45 10% 90%;
+
+    --primary: 45 100% 50%;
+    --primary-foreground: 0 0% 4%;
+
+    --secondary: 0 0% 12%;
+    --secondary-foreground: 45 10% 90%;
+
+    --muted: 0 0% 14%;
+    --muted-foreground: 0 0% 55%;
+
+    --accent: 45 90% 45%;
+    --accent-foreground: 0 0% 4%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 45 30% 18%;
+    --input: 0 0% 15%;
+    --ring: 45 100% 50%;
+
+    --radius: 0.75rem;
+
+    --gold-start: 45 100% 50%;
+    --gold-end: 35 100% 40%;
+    --glow-gold: 0 0 30px hsla(45, 100%, 50%, 0.3);
+
+    --sidebar-background: 0 0% 6%;
+    --sidebar-foreground: 45 10% 90%;
+    --sidebar-primary: 45 100% 50%;
+    --sidebar-primary-foreground: 0 0% 4%;
+    --sidebar-accent: 0 0% 12%;
+    --sidebar-accent-foreground: 45 10% 90%;
+    --sidebar-border: 45 30% 18%;
+    --sidebar-ring: 45 100% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-body;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer utilities {
+  .text-gold-gradient {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, hsl(45, 100%, 60%), hsl(35, 100%, 45%), hsl(45, 100%, 55%));
+  }
+
+  .bg-gold-gradient {
+    background-image: linear-gradient(135deg, hsl(45, 100%, 50%), hsl(35, 100%, 40%));
+  }
+
+  .bg-dark-gradient {
+    background-image: linear-gradient(180deg, hsl(0, 0%, 6%), hsl(0, 0%, 2%));
+  }
+
+  .border-gold {
+    border-color: hsl(45, 100%, 50%);
+  }
+
+  .shadow-gold {
+    box-shadow: 0 0 30px hsla(45, 100%, 50%, 0.2);
+  }
+
+  .shadow-gold-lg {
+    box-shadow: 0 0 60px hsla(45, 100%, 50%, 0.3);
+  }
+
+  .glow-text {
+    text-shadow: 0 0 20px hsla(45, 100%, 50%, 0.5);
+  }
+}
+
+/* Promo banner animation */
+@keyframes slide {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-slide {
+  animation: slide 20s linear infinite;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: hsl(0, 0%, 6%);
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(45, 100%, 50%);
+  border-radius: 3px;
+}
