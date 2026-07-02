@@ -22,29 +22,29 @@ const Blog = () => {
         <title>mahadev777 Blog – Cricket, Casino Tips & Gaming Guides India</title>
         <meta name="description" content="Read expert gaming guides, cricket fantasy tips, casino strategies, and online gaming insights on the mahadev777 blog. Updated daily with SEO-rich articles." />
         <meta name="keywords" content="royal777 blog, cricket tips, casino strategy, teen patti guide, fantasy cricket, online gaming india" />
-        <link rel="canonical" href="https://royal777.app/blog" />
+        <link rel="canonical" href="https://www.mahadev777.online/blog" />
         <meta property="og:title" content="mahadev777 Blog – Cricket, Casino Tips & Gaming Guides" />
         <meta property="og:description" content="Expert gaming guides, cricket fantasy tips, and casino strategies. Updated daily." />
         <meta property="og:type" content="blog" />
-        <meta property="og:url" content="https://royal777.app/blog" />
+        <meta property="og:url" content="https://www.mahadev777.online/blog" />
         <script type="application/ld+json">
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Blog",
             "name": "mahadev777 Blog",
             "description": "Expert gaming guides, cricket tips, and casino strategies for Indian players.",
-            "url": "https://royal777.app/blog",
+            "url": "https://www.mahadev777.online/blog",
             "publisher": {
               "@type": "Organization",
               "name": "mahadev777",
-              "url": "https://royal777.app"
+              "url": "https://www.mahadev777.online"
             },
             "blogPost": blogPosts.map(post => ({
               "@type": "BlogPosting",
               "headline": post.title,
               "description": post.excerpt,
               "datePublished": post.date,
-              "url": `https://royal777.app/blog/${post.slug}`,
+              "url": `https://www.mahadev777.online/blog/${post.slug}`,
               "author": { "@type": "Organization", "name": "mahadev777" }
             }))
           })}

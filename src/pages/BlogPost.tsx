@@ -32,11 +32,11 @@ const BlogPost = () => {
     "publisher": {
       "@type": "Organization",
       "name": "mahadev777",
-      "url": "https://royal777.app"
+      "url": "https://www.mahadev777.online"
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://royal777.app/blog/${post.slug}`
+      "@id": `https://www.mahadev777.online/blog/${post.slug}`
     },
     "keywords": post.keywords.join(", ")
   };
@@ -45,9 +45,9 @@ const BlogPost = () => {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://royal777.app" },
-      { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://royal777.app/blog" },
-      { "@type": "ListItem", "position": 3, "name": post.title, "item": `https://royal777.app/blog/${post.slug}` }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.mahadev777.online" },
+      { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.mahadev777.online/blog" },
+      { "@type": "ListItem", "position": 3, "name": post.title, "item": `https://www.mahadev777.online/blog/${post.slug}` }
     ]
   };
 
@@ -57,11 +57,11 @@ const BlogPost = () => {
         <title>{post.metaTitle}</title>
         <meta name="description" content={post.metaDescription} />
         <meta name="keywords" content={post.keywords.join(", ")} />
-        <link rel="canonical" href={`https://royal777.app/blog/${post.slug}`} />
+        <link rel="canonical" href={`https://www.mahadev777.online/blog/${post.slug}`} />
         <meta property="og:title" content={post.metaTitle} />
         <meta property="og:description" content={post.metaDescription} />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content={`https://royal777.app/blog/${post.slug}`} />
+        <meta property="og:url" content={`https://www.mahadev777.online/blog/${post.slug}`} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={post.metaTitle} />
         <meta name="twitter:description" content={post.metaDescription} />

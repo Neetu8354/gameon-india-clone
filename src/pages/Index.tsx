@@ -23,21 +23,21 @@ const Index = () => {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "mahadev777",
-    "url": "https://royal777.app",
+    "url": "https://www.mahadev777.online",
     "description": "India's most trusted online cricket & casino gaming platform with fast payouts and secure transactions.",
     "contactPoint": { "@type": "ContactPoint", "contactType": "Customer Support", "availableLanguage": ["Hindi", "English"] },
-    "sameAs": ["https://royal777.app"]
+    "sameAs": ["https://www.mahadev777.online"]
   };
 
   const websiteSchema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "mahadev777",
-    "url": "https://royal777.app",
+    "url": "https://www.mahadev777.online",
     "description": "India's most trusted online gaming platform with Cricket Fantasy, Casino games and more.",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://royal777.app/?q={search_term_string}",
+      "target": "https://www.mahadev777.online/?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   };
