@@ -11,6 +11,19 @@ const Games = () => {
         <meta name="description" content="Explore online casino games, live casino, cricket exchange, slot games, Teen Patti, Aviator, and more at Mahadev777. Fast access with secure gameplay." />
         <meta name="keywords" content="mahadev777 games, online casino, cricket exchange, live casino, slot games, teen patti, aviator, sports exchange" />
         <link rel="canonical" href="https://www.mahadev777.online/games" />
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Online Casino Games & Sports Exchange | Mahadev777 Games",
+            "description": "Explore online casino games, live casino, cricket exchange, slot games, Teen Patti, Aviator, and more at Mahadev777.",
+            "url": "https://www.mahadev777.online/games",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Mahadev777"
+            }
+          })}
+        </script>
       </Helmet>
 
       <Navbar />

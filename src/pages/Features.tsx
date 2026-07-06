@@ -11,6 +11,19 @@ const Features = () => {
         <meta name="description" content="Explore Mahadev777 features including Online Cricket ID, sports exchange, live casino, secure access, mobile compatibility, and fast customer support." />
         <meta name="keywords" content="mahadev777 features, online cricket id, sports exchange, live casino, mobile gaming, secure platform" />
         <link rel="canonical" href="https://www.mahadev777.online/features" />
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Mahadev777 Features | Online Cricket ID & Gaming Platform",
+            "description": "Explore Mahadev777 features including Online Cricket ID, sports exchange, live casino, secure access, mobile compatibility, and fast customer support.",
+            "url": "https://www.mahadev777.online/features",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Mahadev777"
+            }
+          })}
+        </script>
       </Helmet>
 
       <Navbar />
